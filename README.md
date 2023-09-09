@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/qii7q7h9fn19xthc?svg=true)](https://ci.appveyor.com/project/rlvictor/patterns-task2)
+[![Build status](https://ci.appveyor.com/api/projects/status/6sv55t3dj733npf1?svg=true)](https://ci.appveyor.com/project/rlvictor/page-object)
